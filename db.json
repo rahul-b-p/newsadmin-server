@@ -1,4 +1,50 @@
 {
-    "news":[],
-    "deactivated":[]
+  "news": [
+    {
+      "headline": "Nipah virus in Malappuram: Mask must; restrictions in Anakkayam, Pandikkad panchayats",
+      "category": "local",
+      "place": "Malappuam,Kerla",
+      "content": "People in Malappuram district have been asked to wear masks in the wake of a 15-year-old boy, from Pandikkad near Manjeri, testing positive for the deadly Nipah virus. The boy is under treatment at Government Medical College Hospital, Kozhikode. <br>District Collector V. R. Vinod has imposed restrictions for Pandikkad and Anakkayam panchayats. When the boy hails from Pandikkad, the school he studies is in Anakkayam. Schools, colleges, madrasas, angawadis, and tuition centres in those panchayats will be closed <br>People have been asked to avoid gatherings even for functions scheduled before. Marriage and other social gatherings should be restricted to minimal number of guests.<br>Shops will be allowed to function only between 10 a.m. and 5 p.m. in Pandikkad and Anakkayam panchayats. However, medical shops will be exempted. Cinema theatres will not be allowed to function.<br>Minister for Health Veena George, supervising the government response to the Nipah case, said that people in the district should wear mask when going out. Students and teachers should wear mask at school and colleges.<br>The health authorities advised social-distancing in public places. “People should stay away from all kinds of functions, including marriage and other celebrations, until further orders,” said District Medical Officer R. Renuka.",
+      "image": "https://th-i.thgim.com/public/incoming/4jg5t5/article67306076.ece/alternates/LANDSCAPE_1200/IMG_Nipah_Virus_in_Keral_2_1_A3BO8IP6.jpg",
+      "timestamp": "7/21/2024, 11:18",
+      "id": 1
+    },
+    {
+      "headline": "New NCERT Class 6 social science textbook shrinks content, rolling three books of history, geography, civics into one",
+      "category": "education",
+      "place": "New Delhi",
+      "content": "New book features content from Upanishads, Mahabharata; geography concepts truncated; includes chapter dedicated to etymology of ‘Bharat’; ancient Indian kingdoms culled; only single word mention of Ashoka The new Social Science textbook for Class 6 is a heavily truncated amalgamation of what was earlier three separate books for History, Geography, and Civics published by the National Council of Educational Research and Training (NCERT).<br>Students in Class 3 and Class 6 are getting new textbooks for the 2024-25 academic year. Class 6 students will get a single Social Science text, titled Exploring Society — India and Beyond.The Hindu had earlier reported that the National Syllabus and Teaching Learning Material Committee was considering merging three books into one.",
+      "image": "https://th-i.thgim.com/public/education/hpyx4t/article68426803.ece/alternates/LANDSCAPE_1200/PTI06_16_2024_000126A.jpg",
+      "timestamp": "7/21/2024, 11:23",
+      "id": 2
+    },
+    {
+      "headline": "Nirmala Sitharaman to table Economic Survey 2024-25 on July 22",
+      "category": "politics",
+      "place": "New Delhi",
+      "content": "The Economic Survey is an official report card on the government’s financial performance and the state of the economy during the year ending March 31.<br>Union Finance Minister Nirmala Sitharaman will be tabling the Economic Survey 2024-25 on July 22, the first day of the monsoon session of Parliament.<br>The Economic Survey is an official report card on the government’s financial performance and the state of the economy during the year ending March 31. It also provides an outlook on future policy changes. It is usually released by the Ministry of Finance a day before the Union Budget is tabled.",
+      "image": "https://th-i.thgim.com/public/business/budget/lhmsqb/article68425790.ece/alternates/LANDSCAPE_1200/PTI07_03_2024_000216A.jpg",
+      "timestamp": "7/21/2024, 11:29",
+      "id": 3
+    },
+    {
+      "headline": "Need Relationships With Actresses: Ruturaj Gaikwad Snub Prompts Epic Rant By Ex CSK Star",
+      "category": "sports",
+      "place": "Mumbai",
+      "content": "The plethora of talent that Indian cricket has often made it difficult for players to retain a sustained place in the national team. While Rinku Singh became the victim of competition at the T20 World Cup 2024, Ruturaj Gaikwad didn't get a spot in the team for the tour of Sri Lanka. Neither of the two batters has done anything wrong to sit in the situation they have been in. Still, it's team combination and preference of different kinds of players that forced the selectors to snub them for different assignments. But, not everyone is understandably happy seeing such selection snubs, with former India and Chennai Super Kings batter S Badrinath making some scathing comments in this regard.<br>Badrinath himself took to social media as he shared the video of him launching an attack at the selection committee. He admitted being shocked that Gaikwad didn't make the team for the Sri Lanka series.<br>From the comments made in the video, it was quite understood that the former India star wasn't happy seeing his former franchise's current captain being overlooked despite delivering brilliant performances.",
+      "image": "https://c.ndtvimg.com/2024-07/ijm10jng_ruturaj-x_625x300_21_July_24.jpeg",
+      "timestamp": "7/21/2024, 11:42",
+      "id": 4
+    },
+    {
+      "headline": "Malicious actors trying to exploit global tech outage for their own gain",
+      "category": "business",
+      "place": "Mumbai",
+      "content": "As the world continues to recover from massive business and travel disruptions caused by a faulty software update from cybersecurity firm CrowdStrike, malicious actors are trying to exploit the situation for their own gain.<br>Government cybersecurity agencies across the globe and even CrowdStrike CEO George Kurtz are warning businesses and individuals around the world about new phishing schemes that involve malicious actors posing as CrowdStrike employees or other tech specialists offering to assist those recovering from the outage.<br>We know that adversaries and bad actors will try to exploit events like this, Kurtz said in a statement. “I encourage everyone to remain vigilant and ensure that you’re engaging with official CrowdStrike representatives.”he UK Cyber Security Center said they have noticed an increase in phishing attempts around this event.",
+      "image": "https://images.livemint.com/img/2018/12/28/600x338/Market_1545996018064.jpg",
+      "timestamp": "7/21/2024, 11:49",
+      "id": 5
+    }
+  ],
+  "deactivated": []
 }
